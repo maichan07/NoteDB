@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "661159002985",
+    "project_id": "soulnote-10ed3",
+    "storage_bucket": "soulnote-10ed3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661159002985:android:effc9bf69af4614fd473f8",
+        "android_client_info": {
+          "package_name": "com.anonymous.Notepad"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAe78TGY4DxNSxziEZ9UIg50aizA9j9DJk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
